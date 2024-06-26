@@ -41,8 +41,9 @@ function Alarm() {
 
     return (
         <div>
+            
             <button>
-                알람
+            
             </button>
         </div>
     );
